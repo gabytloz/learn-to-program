@@ -7,7 +7,7 @@ Needless to say, this compilation of exercises is based in Chris Pine's material
 
 How to use (info for newbie)
 ------
-If for some reason you are new to programing and you ended up here, you'll probably get disappointed. I did some changes to the exercises that make them intuitive for newbies (adding constants and functions since the first program is a good example) but too stupid for experienced programmers. Still, you are free to check my approach.
+If for some reason you are new to programing and you ended up here, you'll probably get disappointed. I did some changes to the exercises that make them unfriendly for newbies (adding constants and functions since the first program is a good example) but that still are too stupid for experienced programmers. Still, you are free to check my approach.
 
 These work on the terminal, so what you'll need:
 
