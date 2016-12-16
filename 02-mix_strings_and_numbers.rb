@@ -92,6 +92,9 @@ def start_menu
         puts "Select a valid option from the menu, only numbers please.\n"
     end # /Case
 
+
+    puts "\n\nPress any key to continue"
+    gets
     exit_flag === false ? puts("\nThat was fun!\n ======================= \n So,  what do you want to do now? \n") : puts("\nBye");
   end # /While
 end
